@@ -2,7 +2,7 @@
 
 $dsn = "mysql:host=localhost;dbname=deneme";
 $username = "root";
-$password = "BeratBerat1_";
+$password = "";
 
 try{
 
