@@ -5,8 +5,6 @@ session_start();
      header("Location:login.php");
 }
 
-
-
 ?>
 
 
@@ -37,21 +35,11 @@ session_start();
                         echo "<li>$i</li>";
                      }
 
-                       
-                     
+                    
                     ?>
                 </ul>
-            </div>
+             </div>
            </div>        
-          
         </div>
-
-        
-
-         
-
-
-
-        
     </body>
 </html>
