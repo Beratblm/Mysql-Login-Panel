@@ -13,9 +13,4 @@ $data = preg_replace($search, '', $data);
 }
 
 
-
-
-
-
-
 ?>
